@@ -6,4 +6,4 @@
 ![centos5](https://i.ibb.co/LQ0ZwGX/centos5.png)
 
 ## 3.-Crear enlace simbólico al path si es que tienes problemas para usar Docker Compose
-![centos6]https://i.ibb.co/48HLDMt/centos6.png
+![centos6](https://i.ibb.co/48HLDMt/centos6.png)
